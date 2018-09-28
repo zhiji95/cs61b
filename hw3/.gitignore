@@ -1,0 +1,7 @@
+*.class
+*.py
+*.jar
+*~
+.DS_Store
+
+/bin/
